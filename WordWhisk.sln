@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordWhisk", "WordWhisk\WordWhisk.csproj", "{71FE8E4B-66EC-40B9-B021-60C4C8C7F60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordWhisk.Test.Unit", "WordWhisk.Test.Unit\WordWhisk.Test.Unit.csproj", "{1FC9F4B1-8DFD-431F-B637-00F5D4F17D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FE8E4B-66EC-40B9-B021-60C4C8C7F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FE8E4B-66EC-40B9-B021-60C4C8C7F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FE8E4B-66EC-40B9-B021-60C4C8C7F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FE8E4B-66EC-40B9-B021-60C4C8C7F60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC9F4B1-8DFD-431F-B637-00F5D4F17D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC9F4B1-8DFD-431F-B637-00F5D4F17D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC9F4B1-8DFD-431F-B637-00F5D4F17D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC9F4B1-8DFD-431F-B637-00F5D4F17D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F60E18-4034-4A33-B0F6-1C6A3F4D39C4}
+	EndGlobalSection
+EndGlobal

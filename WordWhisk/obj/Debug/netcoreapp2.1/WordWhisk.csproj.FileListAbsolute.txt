@@ -1,0 +1,11 @@
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\bin\Debug\netcoreapp2.1\WordWhisk.deps.json
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\bin\Debug\netcoreapp2.1\WordWhisk.runtimeconfig.json
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\bin\Debug\netcoreapp2.1\WordWhisk.runtimeconfig.dev.json
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\bin\Debug\netcoreapp2.1\WordWhisk.dll
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\bin\Debug\netcoreapp2.1\WordWhisk.pdb
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\obj\Debug\netcoreapp2.1\WordWhisk.csprojAssemblyReference.cache
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\obj\Debug\netcoreapp2.1\WordWhisk.csproj.CoreCompileInputs.cache
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\obj\Debug\netcoreapp2.1\WordWhisk.AssemblyInfoInputs.cache
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\obj\Debug\netcoreapp2.1\WordWhisk.AssemblyInfo.cs
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\obj\Debug\netcoreapp2.1\WordWhisk.dll
+C:\Users\iigbo\Desktop\sandbox\WordWhisk\WordWhisk\obj\Debug\netcoreapp2.1\WordWhisk.pdb
